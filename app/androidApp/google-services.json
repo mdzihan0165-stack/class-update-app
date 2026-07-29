@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281619981224",
+    "project_id": "class-update-fc36a",
+    "storage_bucket": "class-update-fc36a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281619981224:android:e6bda4514c6ae5da36f39d",
+        "android_client_info": {
+          "package_name": "com.example.classupdateapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_kJh5fJIDT5uBmemBBjhcWROzI_cXxi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
